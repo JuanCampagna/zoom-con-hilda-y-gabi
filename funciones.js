@@ -1,0 +1,3 @@
+function devuelveHola() {
+	return "hola";
+}
