@@ -2,6 +2,8 @@ function devuelveHola() {
 	return "hola";
 }
 
-function console(){
+function consoleLaPutaQueTePario(){
 	console.log('hola')
 }
+
+consoleLaPutaQueTePario()
